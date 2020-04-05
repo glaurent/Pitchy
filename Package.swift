@@ -10,6 +10,7 @@ let package = Package(
     targets: [
         .target(
             name: "Pitchy",
+            path: "Source",
             dependencies: [])
     ]
 )
